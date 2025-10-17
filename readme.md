@@ -89,5 +89,5 @@ Pixel Perfect exists to help small businesses shine online by delivering **creat
 | Depreciation Expense   | ₱6,000     |
 | Miscellaneous Expense  | ₱6,000     |
 | **Total Expenses**     | **₱162,000** |
-
 | **NET INCOME**         | **₱89,748** |
+
